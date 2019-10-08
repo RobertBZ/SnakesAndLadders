@@ -1,0 +1,6 @@
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\bin\Debug\Model.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\bin\Debug\Model.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\obj\Debug\Model.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Model\obj\Debug\Model.pdb

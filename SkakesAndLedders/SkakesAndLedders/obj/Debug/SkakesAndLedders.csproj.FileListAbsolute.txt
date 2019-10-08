@@ -1,0 +1,12 @@
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\SkakesAndLedders.exe.config
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\SkakesAndLedders.exe
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\SkakesAndLedders.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\obj\Debug\SkakesAndLedders.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\obj\Debug\SkakesAndLedders.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\obj\Debug\SkakesAndLedders.exe
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\obj\Debug\SkakesAndLedders.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\Core.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\Model.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\Core.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\bin\Debug\Model.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\SkakesAndLedders\obj\Debug\SkakesAndLedders.csproj.CopyComplete

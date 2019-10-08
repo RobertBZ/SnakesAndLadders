@@ -1,0 +1,9 @@
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\bin\Debug\Core.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\bin\Debug\Core.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\bin\Debug\Model.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\bin\Debug\Model.pdb
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\obj\Debug\Core.dll
+C:\Users\Robert\Desktop\Usip\6to Semestre\TS I\Examen\SkakesAndLedders\Core\obj\Debug\Core.pdb
